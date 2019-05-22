@@ -1,5 +1,7 @@
 ## Welcome to GitHub Games
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/slothymonk/reviewing-a-pull-request.svg)](https://greenkeeper.io/)
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 To play the game:
